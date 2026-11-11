@@ -1,0 +1,15 @@
+{
+	"name": "AyanDFPRO",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2267f83b-0248-418a-ba39-78387784c152",
+		"tenantId": "e005363a-a198-4590-b53d-a40e05ac5691"
+	}
+}
